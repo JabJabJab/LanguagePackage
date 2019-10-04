@@ -1,0 +1,5 @@
+name: LanguagePackage
+version: 1.0.0
+main: jab.spigot.language.LPPlugin
+authors:
+  - "Jab"
